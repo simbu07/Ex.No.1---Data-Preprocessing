@@ -38,12 +38,11 @@ Normalizing the data
 Splitting the data into test and train
 
 
-##PROGRAM:
+## PROGRAM:
 ```python
 #Developed by: Silambarsan K
 #Roll No: 212221230101
 
- 
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
 df.head()
@@ -71,18 +70,19 @@ print(df1)
 
 ```
 
-##OUTPUT:
-###Dataset
+## OUTPUT:
+### Dataset
 ![log](nn1.png)
-###ALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y:
+### vALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y:
 ![log](nn1.png)
-###NORMALIZING DATA:
+### NORMALIZING DATA:
 ![log](nn1.png)
-###X_TRAIN AND Y_TRAIN VALUES:
+### X_TRAIN AND Y_TRAIN VALUES:
 ![log](nn1.png)
-###X AMD Y VALUES:
+### X AMD Y VALUES:
 ![log](nn1.png)
-###X_TEST AND Y_TEST VALUES:
+### X_TEST AND Y_TEST VALUES:
 ![log](nn1.png)
 
-##RESULT
+## RESULT
+Thus,the program to perform Data preprocessing in a data set downloaded from Kaggle is implemented successfully..
