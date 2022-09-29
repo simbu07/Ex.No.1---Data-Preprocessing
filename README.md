@@ -74,15 +74,15 @@ print(df1)
 ### Dataset
 ![log](nn1.png)
 ### vALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y:
-![log](nn1.png)
+![log](nn2.png)
 ### NORMALIZING DATA:
-![log](nn1.png)
+![log](nn3.png)
 ### X_TRAIN AND Y_TRAIN VALUES:
-![log](nn1.png)
+![log](nn4.png)
 ### X AMD Y VALUES:
-![log](nn1.png)
+![log](nn5.png)
 ### X_TEST AND Y_TEST VALUES:
-![log](nn1.png)
+![log](nn6.png)
 
 ## RESULT
 Thus,the program to perform Data preprocessing in a data set downloaded from Kaggle is implemented successfully..
