@@ -72,7 +72,17 @@ print(df1)
 ```
 
 ##OUTPUT:
-/ Show the result/
+###Dataset
+![log](nn1.png)
+###ALUES OF INPUT AND OUTPUT DATA ON VAR X AND Y:
+![log](nn1.png)
+###NORMALIZING DATA:
+![log](nn1.png)
+###X_TRAIN AND Y_TRAIN VALUES:
+![log](nn1.png)
+###X AMD Y VALUES:
+![log](nn1.png)
+###X_TEST AND Y_TEST VALUES:
+![log](nn1.png)
 
 ##RESULT
-/Type your result here/
